@@ -1,5 +1,5 @@
 def calcular_subtotal(precio, cantidad):
-    return precio
+    return precio * cantidad
 
 precio = 80
 cantidad = 3
